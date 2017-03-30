@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ZYYFirstViewController.h
 //  ZYYBackViewController
 //
 //  Created by liguo.chen on 17/3/29.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ZYYFirstViewController : UIViewController
 
 @end
-
